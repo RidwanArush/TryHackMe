@@ -4,6 +4,7 @@
 
 # Horudhac
 Tani, waa faahfaahin kooban oo ku saabsan qolka [**Memory Forensics**](https://tryhackme.com/room/memoryforensics) ee **TryHackMe** 
+![Memory Forensics](https://tryhackme-images.s3.amazonaws.com/room-icons/2f9dce95cf880c6d070d4a7ac92d4cfb.png)
 
 # Tusmo
 - Task 1  Introduction
