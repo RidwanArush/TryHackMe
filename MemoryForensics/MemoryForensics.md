@@ -1,10 +1,7 @@
 #  Memory Forensics - Afsomali
-![[Pasted image 20210821162352.png]]
 
 # Horudhac
 Tani, waa faahfaahin kooban oo ku saabsan qolka [**Memory Forensics**](https://tryhackme.com/room/memoryforensics) ee **TryHackMe** 
-
-![[Pasted image 20210821152041.png|300]]
 
 # Tusmo
 - Task 1  Introduction
