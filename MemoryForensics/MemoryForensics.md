@@ -1,5 +1,7 @@
 #  Memory Forensics - Afsomali
 
+![TryHackMe](https://assets.tryhackme.com/img/banners/default_tryhackme.png)
+
 # Horudhac
 Tani, waa faahfaahin kooban oo ku saabsan qolka [**Memory Forensics**](https://tryhackme.com/room/memoryforensics) ee **TryHackMe** 
 
@@ -95,7 +97,7 @@ Falcelis:
 ```
 
 
-> **Warcelin**: charmander999  
+> **Warcelin**: char******999  
 
 ## Task 3  Analysis
 
@@ -118,7 +120,7 @@ Falcelis:
 ```
 
 
-> **Warcelin**:	2020-12-27 22:50:12
+> **Warcelin**:	2020-**-** **:**:12
 
 
 ### 3.2
@@ -171,7 +173,7 @@ Falcelis:
 	C:\Users\John>
 ```
 
-> **Warcelin**:	You_found_me
+> **Warcelin**:	You_*****_me
 
 
 ## Task 4  TrueCrypt
@@ -189,7 +191,7 @@ Falcelis:
 ```
 
 
-> **Warcelin** forgetmenot
+> **Warcelin** for*****not
 
 
 #### Tixraac erayada:
